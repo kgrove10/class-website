@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Class Blog",
+    "description": "Welcome to our new blog, Class Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Ouafaa Hmaddi & Kivalina Grove",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-03-04",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-03-04T10:58:39-08:00"
+  }
+]
